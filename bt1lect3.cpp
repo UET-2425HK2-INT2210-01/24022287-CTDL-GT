@@ -1,0 +1,10 @@
+sắp xếp độ phức tạp:
+    2^10-O(1)
+    2^logn-O(logn)
+    3n+100logn-O(n)
+    4n-O(n)
+    2n-O(n)
+    nlogn-O(n logn)
+    4nlogn+2n-O(n logn)
+    n^2+10n-O(n^2)
+    n^3-O(n^3)
